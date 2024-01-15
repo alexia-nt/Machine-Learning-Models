@@ -1,5 +1,5 @@
 # Machine-Learning-Models
-Assignments from the Machine Learning course (6th semester) at AUTh.
+Assignments for the Machine Learning course (6th semester) at AUTh.
 
 1. Linear Models
 2. Decision Trees
